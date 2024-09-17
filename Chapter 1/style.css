@@ -1,0 +1,18 @@
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background-color: #5cb85f;
+}
+
+a.nav-link {
+  color: black;
+}
+
+.btn {
+  color: var(--bs-btn-hover-color);
+  background-color: #5cb85f;
+  border: none;
+}
+.btn:hover {
+  color: var(--bs-btn-hover-color);
+  background-color: #5cb85f;
+}
